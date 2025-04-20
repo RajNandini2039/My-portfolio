@@ -1,6 +1,6 @@
 import "animate.css";
 import raj from "../assets/raj.jpg";
-import resume from "../assets/Rajnandini profilee.pdf";
+import resume from "../assets/Rajnandini Profilee.pdf";
 import { IoLogoGithub } from "react-icons/io";
 import { IoLogoLinkedin, IoMail } from "react-icons/io5";
 
